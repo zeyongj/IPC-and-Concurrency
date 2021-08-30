@@ -33,9 +33,9 @@ EXAMPLE of termination as follows:
 
 Assuming that USER1's local UDP port is 6060, and USER2's local UDP is 6061, then
 
-(1) USER1 input: `!`
+- USER1 input: `!`
     
-Or: (2) USER2 input: `!`
+- Or: USER2 input: `!`
     
 Then the screen shows "total terminate the session" and the chat session stops.
 
