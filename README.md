@@ -27,7 +27,7 @@ Then the chat session can begin.
 
 ## Termination
 
-An s-talk session is terminated when either user enters the complete line of text which is just one ‘!’ and presses enter. 
+An s-talk session is terminated when either user enters the complete line of text which is just one `!` and presses enter. 
 
 EXAMPLE of termination as follows:
 
